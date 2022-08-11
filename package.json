@@ -2,6 +2,9 @@
   "name": "tumblrx",
   "version": "0.1.0",
   "private": true,
+    "engines": {
+    "node": "16.13.0"
+  },
   "dependencies": {
     "@cypress/instrument-cra": "^1.4.0",
     "@mui/base": "^5.0.0-alpha.61",
